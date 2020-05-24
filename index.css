@@ -1,0 +1,57 @@
+#logo{
+	border: transparent thin solid;
+	float: left;
+	padding-left: 50px;
+	padding-right: 200px;
+	width: 250px;
+	height: 100px;
+}
+
+body{
+	background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+}
+
+h1{	
+	color: #fd79a8;
+	padding-top: 50px;
+	text-align: left;
+	font-family: sans-serif;
+	font-size: 50px;
+}
+
+p{
+	color: white;
+	text-align: justify;
+	text-indent: 50px;
+	padding: 0 50px;
+	font-family: sans-serif;
+}
+
+h2{
+	color: #fd79a8;
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 30px;
+	border-bottom: 2px solid black;
+}
+
+#figMadara{
+	border: transparent thin solid;
+	float: left;
+	width: 400px;
+	height: 300px;
+	padding-left: 50px;
+	padding-right: 25px;
+	padding-bottom: 15px;
+}
+
+h3{
+	color: #fd79a8;
+	padding-left: 75px;
+	font-family: sans-serif;
+	font-size: 20px;
+}
+
+a{
+	color: white;
+}
